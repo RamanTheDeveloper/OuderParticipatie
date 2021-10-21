@@ -9,3 +9,10 @@ Teams gevormd
 ### Week 3 - 15/10/2020
 React crash course kijken (https://www.youtube.com/watch?v=nTeuhbP7wdE)
 Wireframe voor homepage gemaakt in Adobe XD
+
+### Week 4 - 22/10/2020
+React cursus volgen, momenteel 2,5 van de 7u bekeken
+Wireframe afmaken na wat feedback van Mr Ophalvens
+Met de team taken verdeeld voor de wirefraimes
+Proberen de wirefraimes te tonen aan de verpleegkunde studenten en dan beginnen met programmeren
+Beetje PWA research
